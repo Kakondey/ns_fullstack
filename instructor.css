@@ -1,0 +1,39 @@
+.inline{
+    background-color: red;
+    padding: 2px 3px;
+    display: inline-block;
+    font-size: 10px;
+    height: 10em;
+    width: 10em; /*width : 100px*/
+}
+/* default is 16px for the browser but if you define the size it will take that only */
+.block{
+    border: black 2px solid;
+}
+
+.box{
+    height: 200px;
+    width: 600px;
+}
+
+.tomato{
+    background-color: tomato;
+    width: 50%;
+    float: left;
+}
+
+.purple{
+    background-color: purple;
+    float: right;
+    width: 50%;
+}
+
+.red{
+    background-color: red;
+    float: left;
+}
+
+.pink{
+    background-color: pink;
+    float: left;
+}
