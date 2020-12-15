@@ -4,3 +4,9 @@ git commands:
     git add . (to add all the files in staging stage)
     git commit -m "[add any comments here]"
     git push
+
+for forking :
+    fork the repo first (this will add the same repo in your git hub account)
+
+braching check
+
