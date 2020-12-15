@@ -8,5 +8,10 @@ git commands:
 for forking :
     fork the repo first (this will add the same repo in your git hub account)
 
-braching check
-
+branching :
+    git branch [new branch name]
+    git checkout [branch name to switch]
+    git push --set-upstream origin [newBranch name]
+    git add .
+    git commit -m "comments"
+    git push
