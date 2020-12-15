@@ -1,0 +1,6 @@
+git commands:
+    git remote add [name of remote] [repo link]
+    git init [folder name]
+    git add . (to add all the files in staging stage)
+    git commit -m "[add any comments here]"
+    git push
