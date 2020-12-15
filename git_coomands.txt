@@ -15,3 +15,11 @@ branching :
     git add .
     git commit -m "comments"
     git push
+
+git merging:
+    git checkout [experiment]
+    git rebase master (First, rewinding head to replay your work on top of it...
+    Applying: added staged command)
+
+    git checkout master
+    git merge [experiment]
